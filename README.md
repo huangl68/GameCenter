@@ -46,3 +46,12 @@ game is created
    <img src="/asset/register-page.png" width="400" /> 
  </p>
 
+## Games Menu Page
+
+- User can enter corresponding game by clicking the picture
+
+ <p float="left">
+   <img src="/asset/menu-page.png" width="400" />
+ </p>
+ 
+ 
