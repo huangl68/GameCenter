@@ -42,7 +42,7 @@ game is created
  - Checked the checkbox to remember user email and password. When user opens the application next time, there is no need to re-enter username and password.
 
  <p float="left">
-   <img src="//asset/login-page.png" width="100" />
-   <img src="register-page.png" width="100" /> 
+   <img src="/asset/login-page.png" width="100" />
+   <img src="/asset/register-page.png" width="100" /> 
  </p>
 
