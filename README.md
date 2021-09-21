@@ -41,6 +41,6 @@ game is created
  - Sign-in is secured by Google Firebase Authentication and users can log in to the application with their account on different devices.
  - Checked the checkbox to remember user email and password. When user opens the application next time, there is no need to re-enter username and password.
 
-            |  
+             log-in page.  |    register page
 :-------------------------:|:-------------------------:
 ![](/asset/login-page.png)  |  ![](register-page.png)
