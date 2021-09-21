@@ -2,7 +2,7 @@
 
 ## Game1: 2048
 
-###Game behaviors
+### Game behaviors
 - Game autosaves after every move
 - Last game state will always be loaded when the game is entered, until a new
 game is created.
@@ -10,3 +10,5 @@ game is created.
 - When a new game is created, former undos will be cleared.
 - Different user has different save file and matching score loaded
 - A game score will be uploaded when a game is loss or won.
+
+![2048-gif](/asset/2048-demo-slow.gif)
